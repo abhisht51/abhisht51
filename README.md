@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Abhisht Singh 
-#### I am a Back-end developer and a Data Scientist. 
+#### I am a Back-end developer and a Data Scientist
 
 <!--
 **abhisht51/abhisht51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
