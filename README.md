@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning C++ 
 - 👯 I’m looking to collaborate on Open-Source Projects 
 - 💬 Ask me about Flask/Django/Node.js 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhisht/)
 - 📝[Resume](https://drive.google.com/file/d/1SVRYIm4id1p79ke3H7TeeIRYav1YZuDx/view?usp=sharing)
 
