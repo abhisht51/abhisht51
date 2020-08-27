@@ -1,4 +1,4 @@
-### Hi there 👋 This is Abhisht Singh 
+### Hi there 👋 I am Abhisht Singh 
 #### I am a Back-end developer and a Data Scientist
 
 <!--
