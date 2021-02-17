@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🐍 I'm a Pythoneer
 - 💬 Ask me about Node.js/Flask/Django
 - 🔭 I’m currently working with GANs 
-- 🌱 I’m currently learning React.js/Next.js and Chakra UI. 
+- 🌱 I’m currently learning React.js/Next.js and Tailwind css. 
 - 👯 I’m looking to collaborate on Open-Source Projects 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhisht/)
