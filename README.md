@@ -19,7 +19,8 @@ Here are some ideas to get you started:-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisht51&show_icons=true&theme=light&line_height=27" alt="Abhisht's github stats"/>
 </a>
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhisht51.abhisht51) 
+
+
 
 
 
