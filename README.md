@@ -15,9 +15,9 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhisht/)
 - 📝[Resume](https://drive.google.com/file/d/1SVRYIm4id1p79ke3H7TeeIRYav1YZuDx/view?usp=sharing)
 
-<a href="https://github.com/abhisht51">
+<!-- <a href="https://github.com/abhisht51">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisht51&show_icons=true&theme=light&line_height=27" alt="Abhisht's github stats"/>
-</a>
+</a> -->
 <br />
 
 
