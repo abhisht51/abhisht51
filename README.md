@@ -7,14 +7,11 @@
 
 Here are some ideas to get you started:-->
 
-- 🐍 I'm a Pythoneer
 - 💬 Ask me about Node.js/Flask/Django
-- 🔭 I’m currently working with GANs 
-- 🌱 I’m currently learning React.js/Next.js and Tailwind css. 
-- 👯 I’m looking to collaborate on Open-Source Projects 
+- 🔭 I’m currently working with cron :) 
+- 🌱 I’m currently learning React.js/Next.js and Sequelize ORM 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhisht/)
-- 📝[Resume](https://drive.google.com/file/d/1SVRYIm4id1p79ke3H7TeeIRYav1YZuDx/view?usp=sharing)
 
 <!-- <a href="https://github.com/abhisht51">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisht51&show_icons=true&theme=light&line_height=27" alt="Abhisht's github stats"/>
